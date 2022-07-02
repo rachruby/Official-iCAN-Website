@@ -1,2 +1,3 @@
-# Official-iCAN-Website
-The official website for iCAN!
+# iCAN Official Website
+
+Goal
