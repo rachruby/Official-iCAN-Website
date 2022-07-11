@@ -1,3 +1,2 @@
 # iCAN Official Website
-
-Goal
+Consistently Updating...
